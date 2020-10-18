@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 312.28 118.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #264653;
+        stroke: #264653;
+        stroke-linejoin: round;
+        stroke-width: 33px;
+      }
+
+      .cls-2 {
+        font-size: 70px;
+        fill: #fff;
+        font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="16.5" y="16.5" width="279.28" height="85.98"/>
+  <text class="cls-2" transform="translate(64.79 77.09)"><tspan class="cls-3">R</tspan><tspan x="47.44" y="0">ooty</tspan></text>
+</svg>
